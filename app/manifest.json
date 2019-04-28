@@ -1,0 +1,18 @@
+{
+  "name": "Reply.ai",
+  "author": {
+    "name": "Reply.ai",
+    "email": "support@reply.ai",
+    "url": "https://www.reply.ai"
+  },
+  "defaultLocale": "en",
+  "private": false,
+  "marketingOnly": true,
+  "gaID": "UA-93003814-7",
+  "location": {
+    "support": {
+    },
+    "chat": {
+    }
+  }
+}
